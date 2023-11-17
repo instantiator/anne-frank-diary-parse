@@ -1,12 +1,24 @@
 # Diary of Anne Frank
 
-A set of scripts to clean up the Internet Archive OCR of Anne Frank's "Diary of a Young Girl", and generate a structured dataset of formatted entries, by date.
+A set of scripts to clean up the Internet Archive OCR of Anne Frank's "Diary of a Young Girl", and generate a structured dataset of formatted entries by date.
 
 ## Source material
 
-The original source material comes from the [Internet Archive](https://archive.org/):
+The source material for these scripts comes from the Internet Archive:
 
 * [Anne Frank The Diary Of A Young Girl](https://archive.org/details/AnneFrankTheDiaryOfAYoungGirl_201606)
+
+If you're intending to use or publish any works derived from this work, please keep an eye on the latest information regarding [copyright](https://en.wikipedia.org/wiki/The_Diary_of_a_Young_Girl#Copyright_and_ownership_of_the_originals) of the book.
+
+The scripts in this repository do not contain material from the book, and are available under a very permissive MIT license.
+
+## Prerequisites
+
+These scripts assumes access to a `bash` shell, and that you have installed:
+
+* [DotNet runtime 8.0 or above](https://dotnet.microsoft.com/en-us/download)
+
+
 
 ## Usage
 
@@ -16,6 +28,9 @@ Download the source material from the Internet Archive, and then parse it:
 ./download.sh
 ./parse.sh
 ```
+
+* The source material will be downloaded to: `input/diary.txt`
+* Structured output will be written to: `output/diary-entries.json`
 
 ## Parsing
 
