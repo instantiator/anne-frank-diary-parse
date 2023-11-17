@@ -18,8 +18,6 @@ These scripts assumes access to a `bash` shell, and that you have installed:
 
 * [DotNet runtime 8.0 or above](https://dotnet.microsoft.com/en-us/download)
 
-
-
 ## Usage
 
 Download the source material from the Internet Archive, and then parse it:
@@ -55,7 +53,24 @@ In at least a couple of cases, the spelling errors resulted in faulty dates that
 
 Entries need to be split by date. This is done in the `SourceSplitter` class, which reads a text file, and generates `IEnumerable<DiaryEntry>`.
 
-Entry dates are recognised as a line that ends with `1942`, `1943`, or `1944`. The day, month and year is then parsed from these lines.
+Diary entry dates in the source text are found alone on a line.
+
+* They are roughly in the format: `DAYOFWEEK, MONTH DAY, YEAR`
+* The day of the week of mostly present
+* The month is mostly uppercase
+* The only years are `1942`, `1943`, `1944`
+
+Examples from the source:
+
+```text
+SUNDAY, JUNE 14, 1942
+June 12, 1942
+SATURDAY, JUNE 20,1942
+SUNDAY, JUNE 21, 1942
+MONDAY, NOVEMBER 9,1942
+```
+
+Entry dates are recognised as a line that ends with `1942`, `1943`, or `1944`. The day, month and year is then parsed from these lines by splitting on `,` and then splitting on space.
 
 ### Reformatting
 
