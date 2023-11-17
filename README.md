@@ -30,7 +30,7 @@ Download the source material from the Internet Archive, and then parse it:
 * The source material will be downloaded to: `input/diary.txt`
 * Structured output will be written to: `output/diary-entries.json`
 
-## Parsing
+## How it works
 
 The diary is an OCR text file, uploaded in 2016. The OCR is good, but not perfect. Parsing helps to tidy up the text, and generate structured entries from it.
 
