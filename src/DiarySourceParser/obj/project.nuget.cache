@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqyf+PYL5yNSxVXrYAUXVYUPLILMHHBczMBWfrdRsmNMlxCsxxfngNiTosCQtebSwthul8hmcP65wgQPrlLU1Q==",
+  "success": true,
+  "projectFilePath": "/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/DiarySourceParser.csproj",
+  "expectedPackageFiles": [
+    "/Users/lewiswestbury/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/bin/Debug/net7.0/DiarySourceParser
+/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/bin/Debug/net7.0/DiarySourceParser.deps.json
+/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/bin/Debug/net7.0/DiarySourceParser.runtimeconfig.json
+/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/bin/Debug/net7.0/DiarySourceParser.dll
+/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/bin/Debug/net7.0/DiarySourceParser.pdb
+/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/bin/Debug/net7.0/CommandLine.dll
+/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/obj/Debug/net7.0/DiarySourceParser.csproj.AssemblyReference.cache
+/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/obj/Debug/net7.0/DiarySourceParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/obj/Debug/net7.0/DiarySourceParser.AssemblyInfoInputs.cache
+/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/obj/Debug/net7.0/DiarySourceParser.AssemblyInfo.cs
+/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/obj/Debug/net7.0/DiarySourceParser.csproj.CoreCompileInputs.cache
+/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/obj/Debug/net7.0/DiarySourceParser.csproj.CopyComplete
+/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/obj/Debug/net7.0/DiarySourceParser.dll
+/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/obj/Debug/net7.0/refint/DiarySourceParser.dll
+/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/obj/Debug/net7.0/DiarySourceParser.pdb
+/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/obj/Debug/net7.0/DiarySourceParser.genruntimeconfig.cache
+/Users/lewiswestbury/src/personal/diary/src/DiarySourceParser/obj/Debug/net7.0/ref/DiarySourceParser.dll
