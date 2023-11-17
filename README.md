@@ -8,7 +8,7 @@ The source material for these scripts comes from the Internet Archive:
 
 * [Anne Frank The Diary Of A Young Girl](https://archive.org/details/AnneFrankTheDiaryOfAYoungGirl_201606)
 
-If you're intending to use or publish any works derived from this work, please keep an eye on the latest information regarding [copyright](https://en.wikipedia.org/wiki/The_Diary_of_a_Young_Girl#Copyright_and_ownership_of_the_originals) of the book.
+If you're intending to use or publish anything derived from this work, please keep an eye on the latest information regarding [copyright](https://en.wikipedia.org/wiki/The_Diary_of_a_Young_Girl#Copyright_and_ownership_of_the_originals) of the book.
 
 The scripts in this repository do not contain material from the book, and are available under a very permissive MIT license.
 
